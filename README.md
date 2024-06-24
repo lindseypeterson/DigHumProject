@@ -1,5 +1,5 @@
-Title: "Tracking Slavery and Emancipation through Mississippi's Civil War & Reconstruction Era Governors' Records"
-Author: Lindsey R. Peterson
+<b>Title: "Tracking Slavery and Emancipation through Mississippi's Civil War & Reconstruction Era Governors' Records"
+Author: Lindsey R. Peterson</b>
 
 ![Vital_Statistics](https://github.com/lindseypeterson/DigHumProject/assets/170369126/448f1d14-77ab-413a-9599-e8cdde48899d)
 
